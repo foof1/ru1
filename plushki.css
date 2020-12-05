@@ -1,0 +1,10 @@
+/* Code tidied up by ScrapBook */
+.plushki__who_can_buy, .best_month, #region_test { box-shadow: 0px 14px 14px rgba(0, 0, 0, 0.25), 0px 5px 5px rgba(0, 0, 0, 0.22) !important; background: rgba(0, 0, 0, 0) linear-gradient(rgb(244, 255, 241), rgb(139, 195, 124)) repeat scroll 0% 0% !important; padding: 10px !important; margin-bottom: 1em !important; font-size: 1.1em !important; border: 1px solid rgb(84, 136, 69) !important; }
+.who_can_buy__header { background: transparent none repeat scroll 0% 0%; font-size: 25px !important; padding: 5px 0px !important; }
+.who_can_buy__list { list-style-type: disc !important; list-style-position: outside !important; padding-bottom: 0.5em !important; }
+.who_can_buy__list li { margin-left: 2em !important; margin-bottom: 0.5em !important; }
+.what_to_do { padding-left: 50px !important; margin-bottom: 30px !important; list-style-type: decimal !important; }
+#counter_product { border: medium none !important; color: red !important; font-size: 1.5em !important; font-weight: 600 !important; }
+.left_count { background: rgba(0, 0, 0, 0) linear-gradient(red, rgb(189, 56, 56)) repeat scroll 0% 0% !important; box-shadow: 0px 14px 14px rgba(0, 0, 0, 0.25), 0px 5px 5px rgba(0, 0, 0, 0.22) !important; padding: 23px !important; margin: 12px 0px !important; width: 178px !important; color: rgb(255, 255, 255) !important; text-shadow: 0px -1px 0px rgb(0, 0, 0), 0px -1px 0px rgb(0, 0, 0), 0px 1px 0px rgb(0, 0, 0), 0px 1px 0px rgb(0, 0, 0), -1px 0px 0px rgb(0, 0, 0), 1px 0px 0px rgb(0, 0, 0), -1px 0px 0px rgb(0, 0, 0), 1px 0px 0px rgb(0, 0, 0), -1px -1px 0px rgb(0, 0, 0), 1px -1px 0px rgb(0, 0, 0), -1px 1px 0px rgb(0, 0, 0), 1px 1px 0px rgb(0, 0, 0), -1px -1px 0px rgb(0, 0, 0), 1px -1px 0px rgb(0, 0, 0), -1px 1px 0px rgb(0, 0, 0), 1px 1px 0px rgb(0, 0, 0); font-size: 32px !important; border-radius: 5px !important; text-decoration: none !important; display: block !important; }
+.prod_left_val { display: inline !important; }
+.you_may_buy { font-weight: 900 !important; font-size: 20px !important; }
